@@ -1,0 +1,5 @@
+{
+  "name": "PersonaSurv AI",
+  "description": "A dynamic survey platform where AI generates personalized research questions based on user demographics and interests, while providing admins with deep analytical dashboards.",
+  "requestFramePermissions": []
+}
